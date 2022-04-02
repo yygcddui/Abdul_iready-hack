@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yygcddui
+- 👋 Hi, I’m @metty
 - 👀 I’m interested in making iready hacks and others.
 - 🌱 I’m currently learning how to use Javascript
 - 💞️ I’m looking to collaborate on idk im new but if you can help me run javascript that would be great.
